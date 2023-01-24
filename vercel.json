@@ -21,7 +21,7 @@
     },
     {
     "src": "/(.*)",
-    "dest": "park/wsgi.py"
+    "dest": "chatbot/wsgi.py"
     }
     ]
     }
