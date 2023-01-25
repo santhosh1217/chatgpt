@@ -1,7 +1,7 @@
 from django.shortcuts import render
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Create your views here.
 def chat(question):
